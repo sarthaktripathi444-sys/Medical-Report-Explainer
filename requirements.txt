@@ -1,0 +1,10 @@
+streamlit
+pdfplumber
+pymupdf
+pytesseract
+Pillow
+plotly
+pandas
+anthropic
+python-dotenv
+pytest
